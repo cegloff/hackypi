@@ -1,0 +1,6 @@
+{
+    "ignore": [
+        "src/oldstuff"
+    ],
+    "reportShadowedImports": false
+}
